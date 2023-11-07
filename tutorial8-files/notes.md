@@ -17,7 +17,7 @@ d) cat -> file
 - cd .. moves the directory back by one directory, i.e., go to the parent directory
   - link to parent directory is stored as ..
 - cd ~ to get to the root home directory
-  - ~ is the shorthand for the HOME directory pathname
+  - ~ is the shorthand for the present directory pathname
 
 ### Symbolic Links
 A special kind of file that simply contains the name of another file. They allow arbitrary links between filesystem objects.
