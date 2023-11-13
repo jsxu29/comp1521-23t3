@@ -81,7 +81,7 @@ Representation:
 E.g.
 ```
                            rw-r--r--
-mode_t mode = 0b .....    110100100
+mode_t mode = 0b .....     110100100
                            000000100
 ```
 
